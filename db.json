@@ -1,0 +1,60 @@
+{
+  "campaigns": [
+    {
+      "id": 1,
+      "name": "Campaign 1",
+      "responses": 100,
+      "lastresponse": "4/28/2023",
+      "surveyname": "Survey 1",
+      "surveyid": 1,
+      "createddate": "8/13/2022",
+      "createdby": "Cameron Kelley"
+    },
+    {
+      "id": 2,
+      "name": "Campaign 2",
+      "responses": 200,
+      "lastresponse": "4/29/2023",
+      "surveyname": "Survey 2",
+      "surveyid": 2,
+      "createddate": "8/14/2022",
+      "createdby": "Cameron Kelley"
+    },
+    {
+      "id": 3,
+      "name": "Campaign 3",
+      "responses": 300,
+      "lastresponse": "4/30/2023",
+      "surveyname": "Survey 3",
+      "surveyid": 3,
+      "createddate": "8/15/2022",
+      "createdby": "Cameron Kelley"
+    }
+  ],
+  "surveys": [
+    {
+      "id": 1,
+      "name": "Survey 1",
+      "responses": 1000,
+      "lastresponse": "4/28/2023",
+      "createdby":"Cameron Kelley",
+      "createddate": "8/13/2022"
+    },
+    {
+      "id": 2,
+      "name": "Survey 2",
+      "responses": 2000,
+      "lastresponse": "4/29/2023",
+      "createdby":"Cameron Kelley",
+      "createddate": "8/14/2022"
+    },
+    {
+      "id": 3,
+      "name": "Survey 3",
+      "responses": 3000,
+      "lastresponse": "4/30/2023",
+      "createdby":"Cameron Kelley",
+      "createddate": "8/15/2022"
+    }
+  ]
+}
