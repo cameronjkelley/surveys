@@ -1,157 +1,173 @@
 {
-  "campaigns": [
+  "campaigns":[
     {
-      "id": 1,
-      "name": "Campaign 1",
-      "responses": 100,
-      "lastresponse": "4/28/2023",
-      "surveyname": "Survey 1",
-      "surveyid": 1,
-      "createddate": "8/13/2022",
-      "createdby": "Cameron Kelley"
+      "id":1,
+      "name":"Campaign 1",
+      "responses":100,
+      "lastresponse":"4/28/2023",
+      "surveyname":"Survey 1",
+      "surveyid":1,
+      "createdUTC":"8/13/2022",
+      "createdUserName":"Cameron Kelley",
+      "modifiedUTC":"8/23/2022",
+      "modifiedUserName":"Someone Else"
     },
     {
-      "id": 2,
-      "name": "Campaign 2",
-      "responses": 200,
-      "lastresponse": "4/29/2023",
-      "surveyname": "Survey 2",
-      "surveyid": 2,
-      "createddate": "8/14/2022",
-      "createdby": "Cameron Kelley"
+      "id":2,
+      "name":"Campaign 2",
+      "responses":200,
+      "lastresponse":"4/29/2023",
+      "surveyname":"Survey 2",
+      "surveyid":2,
+      "createdUTC":"8/14/2022",
+      "createdUserName":"Cameron Kelley",
+      "modifiedUTC":"8/23/2022",
+      "modifiedUserName":"Someone Else"
     },
     {
-      "id": 3,
-      "name": "Campaign 3",
-      "responses": 300,
-      "lastresponse": "4/30/2023",
-      "surveyname": "Survey 3",
-      "surveyid": 3,
-      "createddate": "8/15/2022",
-      "createdby": "Cameron Kelley"
+      "id":3,
+      "name":"Campaign 3",
+      "responses":300,
+      "lastresponse":"4/30/2023",
+      "surveyname":"Survey 3",
+      "surveyid":3,
+      "createdUTC":"8/15/2022",
+      "createdUserName":"Cameron Kelley",
+      "modifiedUTC":"8/23/2022",
+      "modifiedUserName":"Someone Else"
     }
   ],
-  "surveys": [
+  "surveys":[
     {
-      "id": 1,
-      "name": "Survey 1",
-      "responses": 1000,
-      "lastresponse": "4/28/2023",
-      "createdby":"Cameron Kelley",
-      "createddate": "8/13/2022"
+      "id":1,
+      "name":"Survey 1",
+      "responses":1000,
+      "lastresponse":"4/28/2023",
+      "createdUserName":"Cameron Kelley",
+      "createdUTC":"8/13/2022",
+      "modifiedUTC":"8/23/2022",
+      "modifiedUserName":"Someone Else"
     },
     {
-      "id": 2,
-      "name": "Survey 2",
-      "responses": 2000,
-      "lastresponse": "4/29/2023",
-      "createdby":"Cameron Kelley",
-      "createddate": "8/14/2022"
+      "id":2,
+      "name":"Survey 2",
+      "responses":2000,
+      "lastresponse":"4/29/2023",
+      "createdUserName":"Cameron Kelley",
+      "createdUTC":"8/14/2022",
+      "modifiedUTC":"8/23/2022",
+      "modifiedUserName":"Someone Else"
     },
     {
-      "id": 3,
-      "name": "Survey 3",
-      "responses": 3000,
-      "lastresponse": "4/30/2023",
-      "createdby":"Cameron Kelley",
-      "createddate": "8/15/2022"
+      "id":3,
+      "name":"Survey 3",
+      "responses":3000,
+      "lastresponse":"4/30/2023",
+      "createdUserName":"Cameron Kelley",
+      "createdUTC":"8/15/2022"
     }
   ],
-	"questions": [
-		{
-			"id": 1,
-			"programid": 1,
-			"institutionid": null,
-			"stem": "What...is your name?",
-			"typeid": 1,
-      "createdby":"Cameron Kelley",
-      "createddate": "8/14/2022"			
-		},
-		{
-			"id": 2,
-			"programid": 1,
-			"institutionid": null,
-			"stem": "What...is your quest?",
-			"typeid": 1,
-      "createdby":"Cameron Kelley",
-      "createddate": "8/14/2022"			
-		},
-		{
-			"id": 2,
-			"programid": 1,
-			"institutionid": null,
-			"stem": "What...is the airspeed velocity of an unladen swallow?",
-			"typeid": 1,
-      "createdby":"Cameron Kelley",
-      "createddate": "8/14/2022"			
-		}
-	],
-	"questionoptions": [
-		{
-			"optionid": 1,
-			"questionid": 1,
-			"prompt": "Sir Lancelot of Camelot",
-			"seq": 1
-		},
-		{
-			"optionid": 2,
-			"questionid": 1,
-			"prompt": "Sir Robin of Camelot",
-			"seq": 2
-		},
-		{
-			"optionid": 3,
-			"questionid": 1,
-			"prompt": "Sir Galahad of Camelot",
-			"seq": 3
-		},
-		{
-			"optionid": 4,
-			"questionid": 1,
-			"prompt": "Arthur, King of the Britons",
-			"seq": 4
-		},
-		{
-			"optionid": 5,
-			"questionid": 2,
-			"prompt": "To avenge Patsy",
-			"seq": 1
-		},
-		{
-			"optionid": 6,
-			"questionid": 2,
-			"prompt": "To avoid questioning",
-			"seq": 2
-		},
-		{
-			"optionid": 7,
-			"questionid": 2,
-			"prompt": "To remain chaste",
-			"seq": 3
-		},
-		{
-			"optionid": 8,
-			"questionid": 2,
-			"prompt": "To seek the grail",
-			"seq": 4
-		},
-		{
-			"optionid": 9,
-			"questionid": 3,
-			"prompt": "What do you mean? An African or European swallow?",
-			"seq": 1
-		},
-		{
-			"optionid": 10,
-			"questionid": 3,
-			"prompt": "Huh? I... I don't know that",
-			"seq": 2
-		},
-		{
-			"optionid": 11,
-			"questionid": 3,
-			"prompt": "Auuuuuuuugh",
-			"seq": 3
-		}
-	]
+  "questions":[
+    {
+      "id":1,
+      "programid":1,
+      "institutionid":null,
+      "stem":"What...is your name?",
+      "typeid":1,
+      "createdUserName":"Cameron Kelley",
+      "createdUTC":"8/14/2022",
+      "modifiedUTC":"8/23/2022",
+      "modifiedUserName":"Someone Else"
+    },
+    {
+      "id":2,
+      "programid":1,
+      "institutionid":null,
+      "stem":"What...is your quest?",
+      "typeid":1,
+      "createdUserName":"Cameron Kelley",
+      "createdUTC":"8/14/2022",
+      "modifiedUTC":"8/23/2022",
+      "modifiedUserName":"Someone Else"
+    },
+    {
+      "id":2,
+      "programid":1,
+      "institutionid":null,
+      "stem":"What...is the airspeed velocity of an unladen swallow?",
+      "typeid":1,
+      "createdUserName":"Cameron Kelley",
+      "createdUTC":"8/14/2022",
+      "modifiedUTC":"8/23/2022",
+      "modifiedUserName":"Someone Else"
+    }
+  ],
+  "questionoptions":[
+    {
+      "id":1,
+      "questionid":1,
+      "prompt":"Sir Lancelot of Camelot",
+      "seq":1
+    },
+    {
+      "id":2,
+      "questionid":1,
+      "prompt":"Sir Robin of Camelot",
+      "seq":2
+    },
+    {
+      "id":3,
+      "questionid":1,
+      "prompt":"Sir Galahad of Camelot",
+      "seq":3
+    },
+    {
+      "id":4,
+      "questionid":1,
+      "prompt":"Arthur, King of the Britons",
+      "seq":4
+    },
+    {
+      "id":5,
+      "questionid":2,
+      "prompt":"To avenge Patsy",
+      "seq":1
+    },
+    {
+      "id":6,
+      "questionid":2,
+      "prompt":"To avoid questioning",
+      "seq":2
+    },
+    {
+      "id":7,
+      "questionid":2,
+      "prompt":"To remain chaste",
+      "seq":3
+    },
+    {
+      "id":8,
+      "questionid":2,
+      "prompt":"To seek the grail",
+      "seq":4
+    },
+    {
+      "id":9,
+      "questionid":3,
+      "prompt":"What do you mean? An African or European swallow?",
+      "seq":1
+    },
+    {
+      "id":10,
+      "questionid":3,
+      "prompt":"Huh? I... I don't know that",
+      "seq":2
+    },
+    {
+      "id":11,
+      "questionid":3,
+      "prompt":"Auuuuuuuugh",
+      "seq":3
+    }
+  ]
 }
