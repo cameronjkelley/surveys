@@ -80,6 +80,7 @@
       "modifiedUserName":"Someone Else",
       "seq":1,
       "page":1,
+      "required":true,
       "questionOptions":[
         {
           "id":1,
