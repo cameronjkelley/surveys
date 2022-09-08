@@ -79,28 +79,28 @@
       "modifiedUTC":"8/23/2022",
       "modifiedUserName":"Someone Else",
       "page":1,
-      "questionoptions":[
+      "questionOptions":[
         {
           "id":1,
-          "questionid":1,
+          "questionId":1,
           "prompt":"Sir Lancelot of Camelot",
           "seq":1
         },
         {
           "id":2,
-          "questionid":1,
+          "questionId":1,
           "prompt":"Sir Robin of Camelot",
           "seq":2
         },
         {
           "id":3,
-          "questionid":1,
+          "questionId":1,
           "prompt":"Sir Galahad of Camelot",
           "seq":3
         },
         {
           "id":4,
-          "questionid":1,
+          "questionId":1,
           "prompt":"Arthur, King of the Britons",
           "seq":4
         }
@@ -117,28 +117,28 @@
       "modifiedUTC":"8/23/2022",
       "modifiedUserName":"Someone Else",
       "page":1,
-      "questionoptions":[
+      "questionOptions":[
         {
           "id":5,
-          "questionid":2,
+          "questionId":2,
           "prompt":"To avenge Patsy",
           "seq":1
         },
         {
           "id":6,
-          "questionid":2,
+          "questionId":2,
           "prompt":"To avoid questioning",
           "seq":2
         },
         {
           "id":7,
-          "questionid":2,
+          "questionId":2,
           "prompt":"To remain chaste",
           "seq":3
         },
         {
           "id":8,
-          "questionid":2,
+          "questionId":2,
           "prompt":"To seek the grail",
           "seq":4
         }
@@ -155,22 +155,22 @@
       "modifiedUTC":"8/23/2022",
       "modifiedUserName":"Someone Else",
       "page":1,
-      "questionoptions":[   
+      "questionOptions":[   
         {
           "id":9,
-          "questionid":3,
+          "questionId":3,
           "prompt":"What do you mean? An African or European swallow?",
           "seq":1
         },
         {
           "id":10,
-          "questionid":3,
+          "questionId":3,
           "prompt":"Huh? I... I don't know that",
           "seq":2
         },
         {
           "id":11,
-          "questionid":3,
+          "questionId":3,
           "prompt":"Auuuuuuuugh",
           "seq":3
         }
