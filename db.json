@@ -8,9 +8,11 @@
       "surveyname":"Survey 1",
       "surveyid":1,
       "createdUTC":"8/13/2022",
-      "createdUserName":"Cameron Kelley",
+      "createdUserFirstName":"Cameron",
+      "createdUserLastName":"Kelley",
       "modifiedUTC":"8/23/2022",
-      "modifiedUserName":"Someone Else"
+      "modifiedUserFirstName":"Someone",
+      "modifiedUserLastName":"Else"
     },
     {
       "id":2,
@@ -20,9 +22,11 @@
       "surveyname":"Survey 2",
       "surveyid":2,
       "createdUTC":"8/14/2022",
-      "createdUserName":"Cameron Kelley",
+      "createdUserFirstName":"Cameron",
+      "createdUserLastName":"Kelley",
       "modifiedUTC":"8/23/2022",
-      "modifiedUserName":"Someone Else"
+      "modifiedUserFirstName":"Someone",
+      "modifiedUserLastName":"Else"
     },
     {
       "id":3,
@@ -32,9 +36,11 @@
       "surveyname":"Survey 3",
       "surveyid":3,
       "createdUTC":"8/15/2022",
-      "createdUserName":"Cameron Kelley",
+      "createdUserFirstName":"Cameron",
+      "createdUserLastName":"Kelley",
       "modifiedUTC":"8/23/2022",
-      "modifiedUserName":"Someone Else"
+      "modifiedUserFirstName":"Someone",
+      "modifiedUserLastName":"Else"
     }
   ],
   "surveys":[
@@ -43,28 +49,33 @@
       "name":"Survey 1",
       "responses":1000,
       "lastresponse":"4/28/2023",
-      "createdUserName":"Cameron Kelley",
-      "createdUTC":"8/13/2022",
+      "createUserFirstName":"Cameron",
+      "createUserLastName":"Kelley",
+      "createUTC":"8/13/2022",
       "modifiedUTC":"8/23/2022",
-      "modifiedUserName":"Someone Else"
+      "modifiedUserFirstName":"Someone",
+      "modifiedUserLastName":"Else"
     },
     {
       "id":2,
       "name":"Survey 2",
       "responses":2000,
       "lastresponse":"4/29/2023",
-      "createdUserName":"Cameron Kelley",
-      "createdUTC":"8/14/2022",
+      "createUserFirstName":"Cameron",
+      "createUserLastName":"Kelley",
+      "createUTC":"8/14/2022",
       "modifiedUTC":"8/23/2022",
-      "modifiedUserName":"Someone Else"
+      "modifiedUserFirstName":"Someone",
+      "modifiedUserLastName":"Else"
     },
     {
       "id":3,
       "name":"Survey 3",
       "responses":3000,
       "lastresponse":"4/30/2023",
-      "createdUserName":"Cameron Kelley",
-      "createdUTC":"8/15/2022"
+      "createUserFirstName":"Cameron",
+      "createUserLastName":"Kelley",
+      "createUTC":"8/15/2022"
     }
   ],
   "questions":[
@@ -74,10 +85,12 @@
       "institutionid":null,
       "stem":"What...is your name?",
       "type":1,
-      "createdUserName":"Cameron Kelley",
-      "createdUTC":"8/14/2022",
+      "createUserFirstName":"Cameron",
+      "createUserLastName":"Kelley",
+      "createUTC":"8/14/2022",
       "modifiedUTC":"8/23/2022",
-      "modifiedUserName":"Someone Else",
+      "modifiedUserFirstName":"Someone",
+      "modifiedUserLastName":"Else"
       "seq":1,
       "page":1,
       "required":true,
@@ -114,10 +127,12 @@
       "institutionid":null,
       "stem":"What...is your quest?",
       "type":1,
-      "createdUserName":"Cameron Kelley",
-      "createdUTC":"8/14/2022",
+      "createUserFirstName":"Cameron",
+      "createUserLastName":"Kelley",
+      "createUTC":"8/14/2022",
       "modifiedUTC":"8/23/2022",
-      "modifiedUserName":"Someone Else",
+      "modifiedUserFirstName":"Someone",
+      "modifiedUserLastName":"Else"
       "seq":2,
       "page":1,
       "maxOptions":2,
@@ -154,10 +169,12 @@
       "institutionid":null,
       "stem":"What...is the airspeed velocity of an unladen swallow?",
       "type":1,
-      "createdUserName":"Cameron Kelley",
-      "createdUTC":"8/14/2022",
+      "createUserFirstName":"Cameron",
+      "createUserLastName":"Kelley",
+      "createUTC":"8/14/2022",
       "modifiedUTC":"8/23/2022",
-      "modifiedUserName":"Someone Else",
+      "modifiedUserFirstName":"Someone",
+      "modifiedUserLastName":"Else"
       "seq":3,
       "page":1,
       "questionOptions":[   
