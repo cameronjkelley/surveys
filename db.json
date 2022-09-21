@@ -7,9 +7,9 @@
       "lastresponse":"4/28/2023",
       "surveyname":"Survey 1",
       "surveyid":1,
-      "createdUTC":"8/13/2022",
-      "createdUserFirstName":"Cameron",
-      "createdUserLastName":"Kelley",
+      "createUserFirstName":"Cameron",
+      "createUserLastName":"Kelley",
+      "createUTC":"8/13/2022",
       "modifiedUTC":"8/23/2022",
       "modifiedUserFirstName":"Someone",
       "modifiedUserLastName":"Else"
